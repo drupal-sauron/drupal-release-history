@@ -3,6 +3,7 @@
     "type": "library",
     "description": "Updates Drupal.org Release History PHP Client",
     "keywords": ["drupal", "drupal.org"],
+    "license": "GPL-2.0+",
     "authors": [
         {
             "name": "Alan Moreau"
