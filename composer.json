@@ -1,5 +1,5 @@
 {
-    "name": "sauron/drupal-release-history",
+    "name": "drupal-sauron/drupal-release-history",
     "type": "library",
     "description": "Updates Drupal.org Release History PHP Client",
     "keywords": ["drupal", "drupal.org"],
